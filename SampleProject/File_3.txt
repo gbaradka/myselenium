@@ -1,1 +1,6 @@
 this is 3rd file just as it is..
+
+i am just editing the file 3 after making ssh key into the jenkins project
+
+thats it 
+
